@@ -13,8 +13,8 @@ export default function Home() {
 
   // เพิ่ม id สำหรับแต่ละรายการ
   const myItems = [
-    { id: 1, itemname: "iPhone15", price: 32900, image: "/iphone15.webp" },
-    { id: 2, itemname: "iPhone15 Pro", price: 41900, image: "/iphone15ProMax.webp" },
+    { id: 1, itemname: "iPhone15", price: 32900, image: "/iPhone15.webp" },
+    { id: 2, itemname: "iPhone15 Pro", price: 41900, image: "/iPhone15ProMax.webp" },
     { id: 3, itemname: "iPad Pro", price: 39990, image: "/iPadPro.webp" },
     { id: 4, itemname: "iPad Air", price: 23900, image: "/iPadAir.webp" },
     { id: 5, itemname: "iPad", price: 13900, image: "/iPad.png" },
